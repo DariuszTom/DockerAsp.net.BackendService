@@ -51,4 +51,4 @@ File browsing is confined to DATA_ROOT to mitigate traversal attacks.
 ## Author
 Dariusz Tomczak
 ## License
-MIT (add a LICENSE file if needed).
+MIT
