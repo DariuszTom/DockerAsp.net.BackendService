@@ -30,7 +30,7 @@ Lightweight ASP.NET Core (.NET 9) backend providing mock data generation and uti
 dotnet build
 DOTNET_ENVIRONMENT=Development dotnet run --project TestBackendService/TestBackendService.csproj
 ```
-Open http://localhost:5000/swagger (HTTP) or https://localhost:7000/swagger (HTTPS) in Development.
+Open http://localhost:5206/swagger (HTTP) or https://localhost:7125/swagger (HTTPS) in Development.
 
 ## Docker
 Example Docker build/run:
